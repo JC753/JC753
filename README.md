@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Jimmy ###
-### Business Economics Graduate upskilling ###
+### 2020 Business Economics Graduate upskilling ###
 
 Completely new to coding, journey started in January 2021 - learning to code one day at a time. 
 
