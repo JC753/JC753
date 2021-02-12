@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Jimmy ###
+### I'm a Business Economics Graduate upskilling ###
+
 Completely new to coding, journey started in January 2021 - learning the code one day at a time. 
 
 - 🔭 My coding journey started on the LTU Reboot Project that lasted 5 weeks (11th January to 11th February 2021).
