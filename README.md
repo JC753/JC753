@@ -7,8 +7,8 @@ Completely new to coding, journey started in January 2021 - learning the code on
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/jc753" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/jc753" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jimmy-cape-35500114a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jimmy-cape-35500114a/" height="30" width="40" /></a>
+<a href="https://codepen.io/jc753" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jc753" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jimmy-cape-35500114a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jimmy-cape-35500114a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
